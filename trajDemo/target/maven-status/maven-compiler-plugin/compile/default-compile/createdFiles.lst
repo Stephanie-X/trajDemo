@@ -1,0 +1,11 @@
+com\geomesa\storing\utils\PreprocessorUtils.class
+com\geomesa\storing\utils\GeoFunction.class
+com\geomesa\storing\Reform.class
+com\geomesa\storing\calculate.class
+testDemo.class
+com\geomesa\storing\Trajectory.class
+com\geomesa\storing\utils\CheckUtils.class
+com\geomesa\storing\Trajectory$DPFeature.class
+com\geomesa\storing\utils\WKTUtils.class
+bianLi.class
+InsertDemo.class
